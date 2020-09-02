@@ -5,6 +5,9 @@ import org.springframework.stereotype.Component;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
+/**
+ * The type Spanish spell checker.
+ */
 @Component("SpanishSpell")
 public class SpanishSpellChecker implements SpellChecker {
 

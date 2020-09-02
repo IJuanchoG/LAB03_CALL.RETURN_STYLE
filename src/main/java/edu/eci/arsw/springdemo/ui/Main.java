@@ -10,11 +10,17 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
+ * The type Main.
  *
  * @author hcadavid
  */
 public class Main {
 
+    /**
+     * Main.
+     *
+     * @param a the a
+     */
     public static void main(String a[]) {
         ApplicationContext ac = new ClassPathXmlApplicationContext("applicationContext.xml");
         GrammarChecker gc = ac.getBean(GrammarChecker.class);

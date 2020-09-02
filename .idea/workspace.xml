@@ -1,41 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c55ba70-2104-4baf-aba7-79485b519c24" name="Default Changelist" comment="" />
+    <list default="true" id="6c55ba70-2104-4baf-aba7-79485b519c24" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GrammarCheckerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SPRING_DIP_DI_DEMO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SPRING_DIP_DI_DEMO.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/eci/arsw/springdemo/EnglishSpellChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/eci/arsw/springdemo/EnglishSpellChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/eci/arsw/springdemo/GrammarChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/eci/arsw/springdemo/GrammarChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/eci/arsw/springdemo/SpanishSpellChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/eci/arsw/springdemo/SpanishSpellChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/eci/arsw/springdemo/ui/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/eci/arsw/springdemo/ui/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1geBRMuLIlF3cfC2u1e9pqKU7tk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.eci.arsw.springdemo.ui.Main" />
+  <component name="RunManager" selected="JUnit.GrammarCheckerTest">
+    <configuration name="GrammarCheckerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SPRING_DIP_DI_DEMO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.eci.arsw.springdemo.ui.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GrammarCheckerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GrammarCheckerTest.debeMainSpanish" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SPRING_DIP_DI_DEMO" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GrammarCheckerTest" />
+      <option name="METHOD_NAME" value="debeMainSpanish" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GrammarCheckerTest.debeRealizarEnglishCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SPRING_DIP_DI_DEMO" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GrammarCheckerTest" />
+      <option name="METHOD_NAME" value="debeRealizarEnglishCheck" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GrammarCheckerTest.debeRealizarSpanishCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SPRING_DIP_DI_DEMO" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GrammarCheckerTest" />
+      <option name="METHOD_NAME" value="debeRealizarSpanishCheck" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GrammarCheckerTest.noDebeMainSpanish" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SPRING_DIP_DI_DEMO" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GrammarCheckerTest" />
+      <option name="METHOD_NAME" value="noDebeMainSpanish" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.GrammarCheckerTest" />
+        <item itemvalue="JUnit.GrammarCheckerTest.noDebeMainSpanish" />
+        <item itemvalue="JUnit.GrammarCheckerTest.debeMainSpanish" />
+        <item itemvalue="JUnit.GrammarCheckerTest.debeRealizarEnglishCheck" />
+        <item itemvalue="JUnit.GrammarCheckerTest.debeRealizarSpanishCheck" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -54,22 +132,46 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="96" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1280.680@0.0.1280.680" timestamp="1598465577660" />
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1598466135586">
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1599022827863">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598466135586" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1598466135586">
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.680@0.0.1280.680" timestamp="1599022827863" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1598466718428">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1598466135586" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1598466135586">
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1598466718428" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1599022827747">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1598466135586" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1598466135586">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1599022827747" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1599022827747">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1598466135586" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1599022827747" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1599022827747">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1599022827747" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1599022827747">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1599022827747" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1599022827743">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1599022827743" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1599022827743">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1599022827743" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1599022827743">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1599022827743" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1599022827743">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1599022827743" />
     <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1598465177741">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
